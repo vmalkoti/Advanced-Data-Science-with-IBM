@@ -7,8 +7,8 @@ Using these approaches, no matter what your skill levels in topics you would lik
 
 <br/>
 
-![IBM Badge]()
+![IBM Badge](.//applied-ai-with-deeplearning.png)
 
-(badge description from YourAcclaim)
+This badge earner understands how DeepLearning Neural Networks work. The individual understands different state-of-the-art DeepLearning frameworks. The earner can also apply their knowledge on different industry relevant tasks. Finally, they know how to scale the neural networks on data parallel frameworks like Apache Spark and GPUs.
 
-[Coursera Certificate]()
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/3XQGS8GXDALW)
